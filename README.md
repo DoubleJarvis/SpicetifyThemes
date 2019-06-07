@@ -1,6 +1,9 @@
 # What is this?
 Custom themes to spice your Spotify client up using [spicetify-cli](https://github.com/khanhas/spicetify-cli)
 
+# What's on the menu?
+Check available [Themes](https://github.com/DoubleJarvis/SpicetifyThemes/wiki/Themes)
+
 # How to use?
 Install spicetify using instructions on its github page.
 Locate your Themes folder:
